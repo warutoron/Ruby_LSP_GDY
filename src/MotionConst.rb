@@ -1,0 +1,19 @@
+module MotionConst
+
+  # 停止
+  MOTION_STOP = 0
+
+  # Stride_Motion
+  STRIDE_WALK = 1
+  STRIDE_DUSH_SHOT = 2
+  STRIDE_SHOT = 3
+  STRIDE_JUMP = 4
+  STRIDE_JUMP_SHOT = 5
+  STRIDE_DUSH_JUMP = 6
+
+  # Axtlinder_Motion
+  AXTLINDER_WALK = 1
+  AXTLINDER_JUMP = 2
+  AXTLINDER_OVER_DESTROY = 3
+
+end
